@@ -1,7 +1,7 @@
-streamlit
-pandas
-numpy
-scikit-learn
-xgboost
-category-encoders
-joblib
+Python: 3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:09:58) [MSC v.1929 64 bit (AMD64)]
+scikit-learn: 1.7.2
+XGBoost: 3.2.0
+category-encoders: 2.8.1
+NumPy: 2.4.4
+Pandas: 2.3.3
+Joblib: 1.5.2
